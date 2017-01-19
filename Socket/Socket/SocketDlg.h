@@ -6,6 +6,7 @@
 #include "ServerDialog.h"
 #include "ClinetDialog.h"
 #include "afxcmn.h"
+#include "Net.h"
 
 // CSocketDlg ¶Ô»°¿ò
 class CSocketDlg : public CDialogEx
